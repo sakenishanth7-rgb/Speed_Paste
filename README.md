@@ -31,6 +31,6 @@ SpeedPaste is built to improve productivity by providing a centralized place to 
 
 https://speedpaste.lovable.app/
 
-## 👨‍💻 Developer
+## Credits
 
-Nishanth Sake
+Built with Lovable and customized, deployed, and maintained by Nishanth Sake.
