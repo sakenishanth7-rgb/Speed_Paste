@@ -1,0 +1,13 @@
+# QuickCopy Vault
+
+> Save the booking details you type over and over — name, Aadhaar, phone, address, gotram — and copy them with one tap during fast TTD, IRCTC and temple ticket bookings.
+
+QuickCopy Vault is a personal snippet manager built for the booking rush. Users group snippets into categories (TTD, IRCTC, Personal, etc.) and tap a single large button to copy the value to the clipboard. Snippets can be pinned, favorited, duplicated, and exported as JSON.
+
+## Pages
+
+- [Home](/): Product overview, hero, and feature highlights.
+
+## Optional
+
+- [Sign in or create an account](/auth): Authentication page (login and signup share one route).

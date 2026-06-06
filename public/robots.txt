@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://speedpaste-gems.lovable.app/sitemap.xml
